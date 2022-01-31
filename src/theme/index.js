@@ -3,7 +3,7 @@ import { createTheme } from '@mui/material/styles'
 const theme = createTheme({
     palette: {
         background: {
-            default: '#2B2B2B'
+            default: '#2b2b2b'
         },
         mode: 'dark',
         primary: {
@@ -19,11 +19,3 @@ const theme = createTheme({
 
 export default theme
 
-display: flex;
-flex-direction: row;
-align-items: flex-start;
-padding: 0px;
-
-position: relative;
-width: 141px;
-height: 30px;
