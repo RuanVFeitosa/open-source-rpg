@@ -380,13 +380,5 @@ const styles = (theme) => ({
     paddingRight: '10px',
   },
 });
-  
-  position: relative;
-width: 1440px;
-height: 3225px;
-
-/* Background */
-
-background: #2B2B2B
 
 export default withStyles(styles)(Dashboard);
